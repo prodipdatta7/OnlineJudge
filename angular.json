@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "OnlineJudge"
+  "defaultProject": "OnlineJudge",
+  "cli": {
+    "analytics": "b1552657-2f6f-4877-af07-e819f66a724f"
+  }
 }
